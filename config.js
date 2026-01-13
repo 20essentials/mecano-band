@@ -1,0 +1,23 @@
+export const nameBand = 'MECANO';
+export const nameSongs = [
+	"ME COLÉ EN UNA FIESTA", /*1*/
+	"BARCO A VENUS", /*2*/
+	"MUJER CONTRA MUJER", /*3*/
+	"HIJO DE LA LUNA", /*4*/
+	"ME CUESTA TANTO OLVIDARTE", /*5*/
+	"CRUZ DE NAVAJAS", /*6*/
+	"EL 7 DE SEPTIEMBRE", /*7*/
+	"LA FUERZA DEL DESTINO", /*8*/
+	"MAQUILLAJE", /*9*/
+	"UN AÑO MAS", /*10*/
+	"QUEDATE EN MADRID", /*11*/
+	"LOS AMANTES", /*12*/
+	"AIRE", /*13*/
+	"EL BLUES DEL ESCLAVO", /*14*/
+	"NO ES EN SERIO ESTE CEMENTERIO", /*15*/
+	"NATURALEZA MUERTA", /*16*/
+	"LAIKA", /*17*/
+	"AY QUE PESADO  ", /*18*/
+	"HAWAII-BOMBAY", /*19*/
+	"EUGENIO SALVADOR DALI", /*20*/
+]
